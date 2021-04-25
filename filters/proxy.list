@@ -1,4 +1,12 @@
 # proxy list
 # ->
 DOMAIN-SUFFIX,yande.re,PROXY
-DOMAIN-SUFFIX,googleadservices.com,PROXY
+
+# > YouTube
+USER-AGENT,com.google.ios.youtube*,PROXY
+USER-AGENT,YouTube*,PROXY
+DOMAIN-SUFFIX,googlevideo.com,PROXY
+DOMAIN-SUFFIX,youtube.com,PROXY
+DOMAIN-SUFFIX,ytimg.com,PROXY
+DOMAIN,youtubei.googleapis.com,PROXY
+DOMAIN,yt3.ggpht.com,PROXY
