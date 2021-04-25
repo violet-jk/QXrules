@@ -1,3 +1,4 @@
 # proxy list
 # ->
 DOMAIN-SUFFIX,yande.re,PROXY
+DOMAIN-SUFFIX,googleadservices.com,PROXY
