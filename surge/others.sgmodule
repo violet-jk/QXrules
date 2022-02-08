@@ -2,7 +2,9 @@
 #!desc=最后更新时间 2022-02-08 15:12:00
 
 [Rule]
-DOMAIN-SUFFIX, dmm.com,🇯🇵 Japan 01
+# >
+# >
+# >
 
 [URL Rewrite]
 # Redirect Google Service
