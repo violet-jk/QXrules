@@ -12,6 +12,7 @@ RULE-SET, https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/R
 
 # > 其他
 DOMAIN-SUFFIX, dmm.com,🇯🇵 Japan 01
-IP-CIDR, 23.105.211.155,Direct
+IP-CIDR, 23.105.211.155/32,DIRECT
 
 # > 
+# >
