@@ -2,9 +2,11 @@
 #!desc=最后更新时间 2022-02-08 15:12:00
 
 [Rule]
-# >
-# >
-# >
+# > 其他
+DOMAIN-SUFFIX, dmm.com,🇯🇵 Japan 01
+
+IP-CIDR, 23.105.211.155/32,DIRECT
+
 
 [URL Rewrite]
 # Redirect Google Service
