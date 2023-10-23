@@ -1,5 +1,5 @@
 #!name=自定义去广告
-#!desc=最后更新时间 2022-03-11 09:54:00
+#!desc=最后更新时间 2022-10-23 09:54:00
 
 
 [Rule]
@@ -9,10 +9,5 @@ RULE-SET, https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/R
 RULE-SET, https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list,REJECT-TINYGIF
 # > Hijacking (运营商劫持或恶意网站)
 RULE-SET, https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list,REJECT-TINYGIF
-
-# > 其他
-DOMAIN-SUFFIX, dmm.com,🇯🇵 Japan 01
-
-IP-CIDR, 23.105.211.155/32,DIRECT
 
 # > 占行
