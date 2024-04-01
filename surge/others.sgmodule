@@ -3,8 +3,6 @@
 
 [Rule]
 # > 其他
-IP-CIDR, 23.105.211.155/32,DIRECT
-
 
 [URL Rewrite]
 # Redirect Google Service
