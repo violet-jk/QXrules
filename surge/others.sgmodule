@@ -3,8 +3,6 @@
 
 [Rule]
 # > 其他
-DOMAIN-SUFFIX, dmm.com,🇯🇵 Japan 01
-
 IP-CIDR, 23.105.211.155/32,DIRECT
 
 
