@@ -1,2 +1,2 @@
-rules:
-- "DOMAIN-SUFFIX,yorha.top,Final"
+payload:
+  - DOMAIN-SUFFIX,yorha.top
